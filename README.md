@@ -18,6 +18,3 @@ I'm obsessed with matcha tea, miffy, korean skincare & japan 🤍
 ## 🖇️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maybeyoshiii&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maybeyoshiii&theme=default&hide_border=true)<br/>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maybeyoshiii&limit=5&theme=white&combine_all_yearly_contributions=true)
